@@ -1,4 +1,4 @@
-# require_relative ''
+require_relative 'lib/kamal/version'
 
 Gem::Specification.new do |spec|
   spec.name = "kamal"
