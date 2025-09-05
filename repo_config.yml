@@ -1,0 +1,11 @@
+output: "trace-kamal.md"
+
+skip-dirs:
+  - ".git"
+
+skip-patterns:
+  - ".git*"
+  - "*.md"
+
+keep-comments-paths:
+  - "*"
